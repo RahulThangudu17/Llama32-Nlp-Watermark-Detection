@@ -1,0 +1,10 @@
+ollama
+pandas
+numpy
+scipy
+scikit-learn
+nltk
+matplotlib
+seaborn
+tqdm
+joblib
